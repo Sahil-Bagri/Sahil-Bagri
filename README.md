@@ -1,9 +1,8 @@
 # 💫 About Me:
 👋 Hi, I’m Sahil Bagri <br>- 👀 I’m interested in learning new things...<br>- 🌱 I’m currently learning Data Science...<br>- 💞️ I’m looking to collaborate on a Data Science project...<br>- 📫 How to reach me sb1935174@gmail.com...
 
-<!-- Python GIF -->
 <div align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:1400/1*L_KcZ73lBNgLdxv2wJ1NJg.gif" alt="Python GIF" width="600"/>
+  <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" alt="Python Coding GIF" width="400"/>
 </div>
 
 ## 🌐 Socials:
