@@ -1,9 +1,9 @@
 # 💫 About Me:
 👋 Hi, I’m Sahil Bagri <br>- 👀 I’m interested in learning new things...<br>- 🌱 I’m currently learning Data Science...<br>- 💞️ I’m looking to collaborate on a Data Science project...<br>- 📫 How to reach me sb1935174@gmail.com...
-
 <div align="center">
-  <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" alt="Python Coding GIF" width="400"/>
+  <img src="https://raw.githubusercontent.com/Sahil-Bagri/Sahil-Bagri/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sahil-bagri-3b4589324) 
