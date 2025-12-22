@@ -1,4 +1,4 @@
-![Sahil Bagri Banner](banner.svg)
+![Sahil Bagri Banner](https://github.com/Sahil-Bagri/banner.svg/blob/main/banner.svg)
 
 👋 Hi, I'm Sahil Bagri
 🎯 **Aspiring Data Scientist | Python & Machine Learning Enthusiast**
