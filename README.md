@@ -3,6 +3,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1500&color=FFFFFF&center=true&vCenter=true&width=1000&lines=👋+Hi,+I'm+Sahil+Bagri;🎯+Aspiring+Data+Scientist;🐍+Python+%7C+🤖+Machine+Learning+Enthusiast)](https://git.io/typing-svg)
 
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=2000&color=FFFFFF&center=true&vCenter=true&width=1000&lines=👋+Hi,+I'm+Sahil+Bagri)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1500&color=FFFFFF&center=true&vCenter=true&width=1000&lines=🎯+Aspiring+Data+Scientist)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1000&lines=🐍+Python+%7C+🤖+Machine+Learning+Enthusiast)](https://git.io/typing-svg)
 
 I am a passionate learner currently building a strong foundation in **Data Science, Machine Learning, and Data Analytics**.  
 I enjoy transforming raw data into meaningful insights and am always eager to learn new tools and technologies.
