@@ -88,9 +88,11 @@
 [![](https://github-readme-activity-graph.vercel.app/graph?username=Sahil-Bagri&theme=react-dark&hide_border=true&area=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Sahil-Bagri&icon=4&color=8)](https://visitcount.itsvg.in)
-
 ![Profile Views](https://img.shields.io/badge/Profile%20Views-👀-blue)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sahil-Bagri&color=blueviolet&style=flat-square" alt="Sahil Bagri Profile Views" />
+</p>
 
 ---
 
