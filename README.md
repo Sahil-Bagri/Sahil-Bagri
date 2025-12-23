@@ -90,6 +90,8 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Sahil-Bagri&icon=4&color=8)](https://visitcount.itsvg.in)
 
+![Profile Views](https://img.shields.io/badge/Profile%20Views-👀-blue)
+
 ---
 
  ⭐ *Feel free to explore my repositories and connect with me!*
