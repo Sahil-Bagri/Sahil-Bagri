@@ -1,6 +1,6 @@
 ![Sahil Bagri Banner](https://github.com/Sahil-Bagri/banner.gif/blob/main/banner.gif)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1500&color=FFFFFF&center=true&vCenter=true&width=1000&lines=👋+Hi,+I'm+Sahil+Bagri;🎯+Aspiring+Data+Scientist;🐍+Python+%7C+🤖+Machine+Learning+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1500&color=FFFFFF&center=true&vCenter=true&width=1000&lines=👋+Hi,+I'm+Sahil+Bagri;🎯+Aspiring+Data+Scientist;🐍+Python+%7C+🤖+Machine+Learning+Enthusiast)](https://git.io/typing-svg)
 
 
 
