@@ -2,9 +2,6 @@
 
 # *Aspiring Data Scientist | Python & ML enthusiast | Building solutions with deep learning, data analytics & BI tools*
 
-## 🚀 About Me
-👋 Hi, I’m Sahil Bagri <br>- 👀 I’m interested in learning new things...<br>- 🌱 I’m currently learning Data Science...<br>- 💞️ I’m looking to collaborate on a Data Science project...<br>- 📫 How to reach me sb1935174@gmail.com...
-
 ![Data Science Banner](https://images.unsplash.com/photo-1555949963-aa79dcee981c?ixlib=rb-4.0.3&auto=format&fit=crop&w=2000&q=80)
 
 📌 What I'm Currently Working On
