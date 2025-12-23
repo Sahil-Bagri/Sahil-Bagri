@@ -1,8 +1,7 @@
 ![Sahil Bagri Banner](https://github.com/Sahil-Bagri/banner.gif/blob/main/banner.gif)
 
+# *Aspiring Data Scientist | Python & ML enthusiast | Building solutions with deep learning, data analytics & BI tools*
 
-**I am a passionate learner currently building a strong foundation in Data Science, Machine Learning, and Data Analytics.**  
-**I enjoy transforming raw data into meaningful insights and am always eager to learn new tools and technologies.**
 ## 🚀 About Me
 👋 Hi, I’m Sahil Bagri <br>- 👀 I’m interested in learning new things...<br>- 🌱 I’m currently learning Data Science...<br>- 💞️ I’m looking to collaborate on a Data Science project...<br>- 📫 How to reach me sb1935174@gmail.com...
 
