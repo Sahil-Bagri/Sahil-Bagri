@@ -83,7 +83,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Sahil-Bagri&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil-Bagri&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-# 📊 GitHub Contribution Grapgh
+# 📈 GitHub Contribution Grapgh
 
 [![](https://github-readme-activity-graph.vercel.app/graph?username=Sahil-Bagri&theme=react-dark&hide_border=true&area=true)
 
@@ -92,4 +92,4 @@
 
 ---
 
-⭐ *Feel free to explore my repositories and connect with me!*
+ ⭐ *Feel free to explore my repositories and connect with me!*
