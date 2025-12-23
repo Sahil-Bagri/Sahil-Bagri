@@ -60,20 +60,31 @@
 
 | Repository | Description | Tech Stack |
 |-----------|-------------|------------|
-| 🔹 [ML Learning](https://github.com/Sahil-Bagri/ML-Learning-) | Notes & practice for Machine Learning concepts | Python, ML |
-| 🔹 [Indian Economy](https://github.com/Sahil-Bagri/Indian-Economy-) | Informational project on Indian Economy | Research, Data |
-| 🔹 [Daijoubu Dayo](https://github.com/Sahil-Bagri/Daijoubu-Dayo) | Creative & motivational content | Web / Content |
-| 🔹 [Motivation](https://github.com/Sahil-Bagri/Motivation) | Motivation-focused content repository | Writing |
+| 1️⃣ [ML Learning](https://github.com/Sahil-Bagri/ML-Learning-) | Notes & practice for Machine Learning concepts | Python, ML |
+| 2️⃣ [Indian Economy](https://github.com/Sahil-Bagri/Indian-Economy-) | Informational project on Indian Economy | Research, Data |
+| 3️⃣ [Daijoubu Dayo](https://github.com/Sahil-Bagri/Daijoubu-Dayo) | Creative & motivational content | Web / Content |
+| 4️⃣ [Motivation](https://github.com/Sahil-Bagri/Motivation) | Motivation-focused content repository | Writing |
 
-## 🧪 Machine Learning Projects
+## 🧪 Natural Language Processing Projects
 
 | Project | Problem Solved | Techniques Used |
 |-------|----------------|----------------|
-| 📌 [Text Classifier](https://github.com/Sahil-Bagri/Text-Classifier) | Text classification using ML | NLP, ML |
-| 📌 [Spam Detection](https://github.com/Sahil-Bagri/Spam-Detection) | Detects spam messages | NLP, Scikit-learn |
-| 📌 [IMDB Reviews](https://github.com/Sahil-Bagri/IMDB-REVIEWS) | Sentiment analysis on movie reviews | NLP, ML |
-| 📌 [Fake News Detector](https://github.com/Sahil-Bagri/Fake-news-Detector) | Identifies fake news articles | NLP, ML |
-| 📌 [Stock Price Prediction](https://github.com/Sahil-Bagri/Stock-Price-Prediction-) | Predicts stock prices | Time Series, ML |
+| 1️⃣ [Text Classifier](https://github.com/Sahil-Bagri/Text-Classifier) | Text classification using ML | NLP, ML |
+| 2️⃣ [Spam Detection](https://github.com/Sahil-Bagri/Spam-Detection) | Detects spam messages | NLP, Scikit-learn |
+| 3️⃣ [IMDB Reviews](https://github.com/Sahil-Bagri/IMDB-REVIEWS) | Sentiment analysis on movie reviews | NLP, ML |
+| 4️⃣ [Fake News Detector](https://github.com/Sahil-Bagri/Fake-news-Detector) | Identifies fake news articles | NLP, ML |
+
+## 🧪 Neural Network Projects
+
+| Project | Problem Solved | Techniques Used |
+|---------|----------------|----------------|
+| 1️⃣ [Stock Price Prediction](https://github.com/Sahil-Bagri/Stock-Price-Prediction-) | Predicts stock prices | Time Series, ML |
+| 2️⃣ [Boston Housing Prices](https://github.com/Sahil-Bagri/Neural-Network-Architecture/blob/main/Boston%20Housing%20Prices.ipynb) | Predicts housing prices from dataset | Neural Networks, Regression, Deep Learning |
+| 3️⃣ [Customer Churn Prediction](https://github.com/Sahil-Bagri/Neural-Network-Architecture/blob/main/Customer%20Churn%20Prediction.ipynb) | Predicts customer churn for a business | Neural Networks, Classification, Deep Learning |
+| 4️⃣ [MNIST Dataset Classification](https://github.com/Sahil-Bagri/Neural-Network-Architecture/blob/main/Mnist%20dataset%20.ipynb) | Classifies handwritten digits | Neural Networks, Deep Learning, Image Processing |
+| 5️⃣ [Perceptron Practice](https://github.com/Sahil-Bagri/Neural-Network-Architecture/blob/main/Perceptron%20Practise.ipynb) | Implements basic perceptron models | Perceptron, Neural Networks, Python |
+| 6️⃣ [CNN CIFAR](https://github.com/Sahil-Bagri/CNN-CIFR) | Classifies images from CIFAR dataset | Convolutional Neural Networks, Deep Learning |
+| 7️⃣ [XOR Problem Model](https://github.com/Sahil-Bagri/XOR-Problem-Model) | Solves XOR logic problem with neural network | Neural Networks, Deep Learning, Python |
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Sahil-Bagri&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
