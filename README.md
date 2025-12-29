@@ -18,11 +18,9 @@
 
 🔹📊 Creating dashboards using Power BI
 
-🔹🛠️ Improving problem-solving & data storytelling skills
+🔹🛠️ Improving problem-solving & data storytelling skills <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
-
---
+---
 ## 🌐Connect With Me:
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/sahil-bagri-3b4589324)
   [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:sb1935174@gmail.com)
