@@ -1,9 +1,7 @@
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=Sahil%20Bagri&desc=Aspiring%20Data%20Scientist&descSize=18&fontSize=40)
 # *Aspiring Data Scientist | Python & ML enthusiast | Building solutions with deep learning, data analytics & BI tools*
 
-<img alt="Coder" width="400" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OWFrcTdsMGNiZ2ppeWN3dmowOTdkanIyanI5d2V5ZHpiZm00OWg4YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jTNG3RF6EwbkpD4LZx/giphy.gif
-">
-
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 📌 What I'm Currently Working On
 
 🔹📈 Data analysis projects using Python & Pandas
