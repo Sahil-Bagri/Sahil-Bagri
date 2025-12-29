@@ -18,7 +18,7 @@
 
 🔹📊 Creating dashboards using Power BI
 
-🔹🛠️ Improving problem-solving & data storytelling skills <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+🔹🛠️ Improving problem-solving & data storytelling skills <img alt="Code animation" width="400" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif">
 
 ---
 ## 🌐Connect With Me:
