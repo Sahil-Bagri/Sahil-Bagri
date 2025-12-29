@@ -31,7 +31,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
 
-<img alt="Code animation" width="400" src=" https://media.tenor.com/qMH5o_XizbcAAAAM/but-here%27s-the-coder.gif">
+<img alt="But here's the coder" width="400" src="https://media.tenor.com/qMH5o_XizbcAAAAM/but-here%27s-the-coder.gif">
 
 ### **🤖Data Science & ML** 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) 
