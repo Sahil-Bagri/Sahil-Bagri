@@ -17,7 +17,7 @@
 
 🔹📊 Creating dashboards using Power BI
 
-🔹🛠️ Improving problem-solving & data storytelling skills <img alt="Code animation" width="400" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif">
+🔹🛠️ Improving problem-solving & data storytelling skills
 
 ---
 ## 🌐Connect With Me:
@@ -52,6 +52,8 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 ## 🧪 Featured Projects
+<img alt="Code animation" width="400" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif">
+
 ## 🌐 Web Pages & Learning Repositories
 
 | Repository | Description | Tech Stack |
