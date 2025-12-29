@@ -1,3 +1,4 @@
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=Sahil%20Bagri&desc=Aspiring%20Data%20Scientist&descSize=18&fontSize=40)
 ![Sahil Bagri Banner](https://github.com/Sahil-Bagri/banner.gif/blob/main/banner.gif)
 
 # *Aspiring Data Scientist | Python & ML enthusiast | Building solutions with deep learning, data analytics & BI tools*
