@@ -64,7 +64,7 @@
 | 3️⃣ [Daijoubu Dayo](https://github.com/Sahil-Bagri/Daijoubu-Dayo) | Creative & motivational content | Web / Content |
 | 4️⃣ [Motivation](https://github.com/Sahil-Bagri/Motivation) | Motivation-focused content repository | Writing |
 
-## 🧪 Natural Language Processing Projects
+## 📋 Natural Language Processing Projects
 
 | Project | Problem Solved | Techniques Used |
 |-------|----------------|----------------|
