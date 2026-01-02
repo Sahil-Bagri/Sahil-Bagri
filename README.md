@@ -92,6 +92,8 @@
 
 
 <img alt="Programme" width= 500 src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bmdkMmVzaGhwNDd0bnI2N2F0bml6ZDFkc2d0emZ5N29hYzE0Z21pdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/4Zgy9QqzWU8C3ugvCa/giphy.gif">
+
+
 # 📈 GitHub Contribution Graph
 
 [![](https://github-readme-activity-graph.vercel.app/graph?username=Sahil-Bagri&theme=react-dark&hide_border=true&area=true)
