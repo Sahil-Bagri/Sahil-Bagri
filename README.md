@@ -96,7 +96,7 @@
 
 # 📈 GitHub Contribution Graph
 
-[![](https://github-readme-activity-graph.vercel.app/graph?username=Sahil-Bagri&theme=react-dark&hide_border=true&area=true)
+![](https://github-readme-activity-graph.vercel.app/graph?username=Sahil-Bagri&theme=react-dark&hide_border=true&area=true)
 
 ---
 ![Profile Views](https://img.shields.io/badge/Profile%20Views-👀-blue)
