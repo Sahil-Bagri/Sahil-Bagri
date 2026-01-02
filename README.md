@@ -73,7 +73,7 @@
 | 3️⃣ [IMDB Reviews](https://github.com/Sahil-Bagri/IMDB-REVIEWS) | Sentiment analysis on movie reviews | NLP, ML |
 | 4️⃣ [Fake News Detector](https://github.com/Sahil-Bagri/Fake-news-Detector) | Identifies fake news articles | NLP, ML |
 
-## 🧪 Neural Network Projects
+## ⛓️‍💥 Neural Network Projects
 
 | Project | Problem Solved | Techniques Used |
 |---------|----------------|----------------|
