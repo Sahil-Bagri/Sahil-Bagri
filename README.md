@@ -65,6 +65,7 @@
 | 2️⃣ [Indian Economy](https://github.com/Sahil-Bagri/Indian-Economy-) | Informational project on Indian Economy | Research, Data |
 | 3️⃣ [Daijoubu Dayo](https://github.com/Sahil-Bagri/Daijoubu-Dayo) | Creative & motivational content | Web / Content |
 | 4️⃣ [Motivation](https://github.com/Sahil-Bagri/Motivation) | Motivation-focused content repository | Writing |
+|5️⃣ [ML Text-to-Speech](https://github.com/Sahil-Bagri/ML-Text-to-Speech) | Machine Learning-based Text-to-Speech Conversion project| Python, ML
 
 ## 📋 Natural Language Processing Projects
 
