@@ -112,5 +112,6 @@
 </p>
 
 ---
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTU2bmY5NWRwNnNuNTVqMnJldTBpNGRsejdlcm4xeHkwdGNxY2g3byZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l1J3CbFgn5o7DGRuE/giphy.gif">
 
  ⭐ *Feel free to explore my repositories and connect with me!*
